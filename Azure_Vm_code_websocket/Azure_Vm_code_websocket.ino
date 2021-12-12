@@ -18,10 +18,10 @@
 //#define CAMERA_MODEL_TTGO_T_JOURNAL // No PSRAM
 
 #include "camera_pins.h"
-
-const char* ssid = "Vijan's";
-const char* password = "9323615121";
-const char* websocket_server_host = "20.197.24.91";
+//Please enter your wifi ssid, pw and cloud hosted virtual machines public ip
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
+const char* websocket_server_host = "YOUR_VM's_Public_Ip";
 const uint16_t websocket_server_port = 65080;
 
 using namespace websockets;
