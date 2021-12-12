@@ -1,4 +1,4 @@
 # Iot-Surveillance-Car
 This is a IOT Based Surveillance Car which can be controlled, tracked globally as well as its data can be accessed globally. The camera on the front of the car can also be monitored globally. It can go anywhere where sim connection is available. 5th Sem Mini project
 
-Credits to https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_GoogleCloudServer for the global stream the only change is instead of using GCP we have used Azure and added some safety mechanism to the webpage
+Credits to https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_GoogleCloudServer for 
