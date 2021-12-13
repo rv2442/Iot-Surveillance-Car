@@ -1,1 +1,0 @@
-This code was taken from https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_GoogleCloudServer and adapted into this project.
