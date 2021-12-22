@@ -15,7 +15,7 @@
     </style>
     <script>
         const img = document.querySelector('img');
-        const WS_URL = 'ws:///192.168.0.105:8888';
+        const WS_URL = 'ws:///PUBLIC_IP_VM:65080';
         const ws = new WebSocket(WS_URL);
         let urlObject;
         ws.onopen = () => console.log(`Connected to ${WS_URL}`);
