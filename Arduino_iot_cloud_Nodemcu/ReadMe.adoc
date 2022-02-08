@@ -6,7 +6,7 @@
 
 = Project: {Project}
 
-Describe your project
+IOT SURVEILLANCE CAR
 
 == Step 1: Installation
 Please describe the steps to install this project.
