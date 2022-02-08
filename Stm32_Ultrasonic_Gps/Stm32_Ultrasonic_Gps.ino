@@ -18,7 +18,7 @@ void setup() {
   Serial3.begin(9600);
   while(!Serial3){}
   Serial.println("Ultrasonic Sensor HC-SR04 Test"); // print some text in Serial Monitor
-  Serial.println("with Arduino UNO R3");
+  Serial.println("with Stm32 f103c6 Bluepill");
 }
 void loop() {
   // Clears the trigPin condition
@@ -33,11 +33,11 @@ void loop() {
   // Calculating the distance
   distance = duration * 0.034 / 2; // Speed of sound wave divided by 2 (go and back)
   // Displays the distance on the Serial Monitor
-  //Serial.print("Distance: ");
   if (Serial3.available())     // check for gps data
   { 
     if (gps.encode(Serial3.read()))   // encode gps data
     { 
+      //Serial communication with nodemcu
       Serial2.print(gps.location.lat(), 6);
       Serial2.print(",");
       Serial.print(gps.location.lat(), 6);
