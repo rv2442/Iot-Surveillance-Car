@@ -8,6 +8,7 @@ const HTTP_PORT = 80;
 
 const wsServer = new WebSocket.Server({port: WS_PORT}, ()=> console.log(`WS Server is listening at ${WS_PORT}`));
 
+/* Allows multiple clients to connect*/
 let connectedClients = [];
 wsServer.on('connection', (ws, req)=>{
     console.log('Connected');
