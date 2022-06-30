@@ -11,6 +11,7 @@ This is a IOT Based Surveillance Car which can be controlled, tracked globally a
 >3. ESP8266 (NodeMCU)
 >4. L298N Motor Driver
 >5. 4 Motors (CW + ACW)
+>6. Servo Motor (MG995)
 >6. Ultrasonic Sensor (HC-SR04)
 >7. GPS module (Neo 6m)
 
