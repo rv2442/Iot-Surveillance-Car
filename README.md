@@ -19,8 +19,8 @@ This is a IOT Based Surveillance Car which can be controlled, tracked globally a
 >* Arduino IDE  
 
 ### Cloud Platforms
->* Microsoft Azure  
->* Arduino IoT Cloud
+>* Microsoft Azure  (as a Iaas)
+>* Arduino IoT Cloud (as a Paas)
 
 ### Block Diagram
 #### Lower Level
