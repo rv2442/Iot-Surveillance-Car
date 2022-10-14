@@ -2,7 +2,7 @@
 This is a IOT Based Surveillance Car which can be controlled, tracked globally as well as its data can be accessed globally. The camera on the front of the car can also be monitored globally. It can go anywhere where sim connection is available.
 
 ### Problem Statement
-* To make a Surveillance Car which can be controlled globally, be tracked using GPS.  
+* To make a Surveillance Car which can be controlled and monitored globally, be tracked using GPS.  
 
 ### Hardware Requirements:
 
