@@ -27,10 +27,6 @@ This is a IOT Based Surveillance Car which can be controlled, monitored and, tra
 ![image](https://user-images.githubusercontent.com/69571769/176467277-a61dbe8f-7546-42e7-8a08-915f85412f64.png)
 
 
-#### Upper Level
-![image](https://user-images.githubusercontent.com/69571769/176467393-daac9e7f-8ff1-45e1-9092-945462fc6a75.png)
-
-
 ### Middle Level
 __This Level Consists of Batteries that power the car namely:__  
 1. 12V Battery to power the 4 motors of the car and the Servo motor.  
@@ -38,6 +34,13 @@ __This Level Consists of Batteries that power the car namely:__
 3. 5V Battery to power Esp8266 and Stm32f103c8  
 >__Note:__  
 >Such high power requirement is needed due to the absence of an rtos.
+
+
+#### Upper Level
+![image](https://user-images.githubusercontent.com/69571769/176467393-daac9e7f-8ff1-45e1-9092-945462fc6a75.png)
+
+
+
 
 ### Demo
 [![image](https://user-images.githubusercontent.com/69571769/176464994-540e844e-b07d-430b-b1c3-4bac1013bd54.png)](https://youtu.be/gbrepEZ59LY)
