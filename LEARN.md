@@ -239,7 +239,7 @@ __Set Permission and Update policy for variables:__
 ![image](https://user-images.githubusercontent.com/69571769/199924524-77c04c03-6bc7-4ebf-aed7-9c2d4ebf6ae9.png)
 
 **Copy Paste the code from my github repo Arduino_iot_cloud_Nodemcu and upload the sketch to your nodemcu**  
->NOTE: To burn code use [these](https://github.com/rv2442/Iot-Surveillance-Car/edit/main/LEARN.md#controlling-esp8266-using-arduino-iot-cloud) videos as reference from 
+>NOTE: To burn code use [these](https://github.com/rv2442/Iot-Surveillance-Car/edit/main/LEARN.md#controlling-esp8266-using-arduino-iot-cloud) videos as reference   
 
 #### THE CAR MUST FUNCTION NOW PROVIDED YOU FOLLOWED ALL STEPS PROPERLY
 >The Connections of GPS, Ultrasonic, STM32, Esp8266 have been shown [here](https://github.com/rv2442/Iot-Surveillance-Car/blob/main/README.md#Upper-Level)
