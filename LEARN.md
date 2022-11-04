@@ -1,4 +1,4 @@
-## References If used will help with Better Understanding
+## References If used will help in Better Understanding
 #### Programming Esp32 Cam using Arduino IDE
 <li>
 https://www.circuitschools.com/how-to-program-upload-the-code-to-esp32-cam-using-arduino-or-programmer/
