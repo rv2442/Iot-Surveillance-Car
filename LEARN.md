@@ -14,7 +14,7 @@ https://randomnerdtutorials.com/program-upload-code-esp32-cam/
 [![image](https://user-images.githubusercontent.com/69571769/199896852-2c2103b9-6e24-4129-8aff-66260954637c.png)](https://youtu.be/CpIkG9N5-JM)
 
 #### Creating an Account on Azure
->NOTE: Some may say that you need .edu domain only but now GitHub, Azure accepts all student domains mine got accepted (.ac.in), if yours doesn't contact GitHub Support and explain them that you are a student but your email was not accepted.
+>NOTE: Some may say that you need .edu domain only but now GitHub, Azure accepts all student domains mine got accepted (.ac.in), if yours doesn't then contact GitHub Support and explain them that you are a student but your email was not accepted.
 
 [![image](https://user-images.githubusercontent.com/69571769/199918571-9e9b4c04-fd5e-4fcf-8673-2ad10d2b9a97.png)](https://youtu.be/A1N-vhru3AU)
 
