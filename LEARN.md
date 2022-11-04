@@ -68,7 +68,7 @@ Once above step is done you would see get 1 thing on this page
 ![image](https://user-images.githubusercontent.com/69571769/199907338-681d664d-3998-4536-94e8-25961a25b643.png)
 <br><br><br>
 
-Click on the thing and start creating variables
+**Click on the thing and start creating variables**  
 ![image](https://user-images.githubusercontent.com/69571769/199908107-54a64be6-df1b-4a9c-b8f0-1b7b217a5a5d.png)
 <br><br><br>
 
