@@ -242,6 +242,6 @@ __Set Permission and Update policy for variables:__
 >NOTE: To burn code use [these](https://github.com/rv2442/Iot-Surveillance-Car/edit/main/LEARN.md#controlling-esp8266-using-arduino-iot-cloud) videos as reference   
 
 #### THE CAR MUST FUNCTION NOW PROVIDED YOU FOLLOWED ALL STEPS PROPERLY
->The Connections of GPS, Ultrasonic, STM32, Esp8266 have been shown [here](https://github.com/rv2442/Iot-Surveillance-Car/blob/main/README.md#Upper-Level)
->[How to Use H-Bridge L298N](https://dronebotworkshop.com/dc-motors-l298n-h-bridge/)
+>The Connections of GPS, Ultrasonic, STM32, Esp8266 have been shown [here](https://github.com/rv2442/Iot-Surveillance-Car/blob/main/README.md#Upper-Level)  
+>How to Use [H-Bridge L298N](https://dronebotworkshop.com/dc-motors-l298n-h-bridge/)
 
