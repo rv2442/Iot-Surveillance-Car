@@ -34,9 +34,10 @@ This project is released under a {License} License.
 To contribute to this project please contact: {Email}
 
 === BOM
-Add the bill of the materials you need for this project.
 
-List of Products is mentioned on README.md of root directory of this repository  
+
+List of Products is mentioned on README.md of root directory of this repository.
+
 Total cost was INR 4-5k.  
 
 
