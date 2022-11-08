@@ -59,6 +59,6 @@ ________________________________________________________________________________
 
 
 #### If you require further assistance, you can contact us at:
-<li>[Rahul Vijan](https://www.linkedin.com/in/rahulv24/)</li>    
-<li>[Aditya Waichol](https://www.linkedin.com/in/aditya-waichol/)</li>  
-<li>[Abhishek Singh](https://www.linkedin.com/in/abhishek-singh-bb87951a4/)</li>  
+<li><a href="https://www.linkedin.com/in/rahulv24/">Rahul Vijan</a></li>  
+<li><a href="https://www.linkedin.com/in/aditya-waichol/">Aditya Waichol</a></li>  
+<li><a href="https://www.linkedin.com/in/abhishek-singh-bb87951a4/">Abhishek Singh</a></li>  
