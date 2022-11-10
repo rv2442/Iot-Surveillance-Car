@@ -192,7 +192,7 @@ __Set Permission and Update policy for variables:__
 <br><br><br>
 
 **Video Tutorial**  
-[![image](https://user-images.githubusercontent.com/69571769/199919727-c8b3e05f-d770-49f6-8c48-8fb8805f8346.png)](https://youtu.be/A1N-vhru3AU)
+[![image](https://user-images.githubusercontent.com/69571769/199919727-c8b3e05f-d770-49f6-8c48-8fb8805f8346.png)](https://youtu.be/QOv_-xBXkpo)
 <br><br><br>
 
 #### Once Machine is created open Ports on it to use Websockets for the Camera Stream
