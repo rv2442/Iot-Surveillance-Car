@@ -220,7 +220,7 @@ __Set Permission and Update policy for variables:__
 **Using Above Steps You can create more a secure rule than mine, like accepting from a specific IP only (but I chose not to as this is just prototyping for a personal project**  
 
 #### Follow this next on Your VM 
->NOTE: In the Video the VM is made on GCP we made the same thing on Azure, follow the same steps as showed in the video after this the stream should show in the "PublicIPofVM/client" url
+>NOTE: In the Video the VM is made on GCP we made the same thing on Azure, follow the same steps as showed in the video after this the stream should show in the "\<PublicIPofVM\>/client" url
 
 [![image](https://user-images.githubusercontent.com/69571769/199896852-2c2103b9-6e24-4129-8aff-66260954637c.png)](https://youtu.be/CpIkG9N5-JM)
 <br><br><br>
