@@ -39,7 +39,8 @@ __This Level Consists of Batteries that power the car namely:__
 #### Upper Level
 ![image](https://user-images.githubusercontent.com/69571769/176467393-daac9e7f-8ff1-45e1-9092-945462fc6a75.png)
 
-
+### Circuit Connections
+![Iot-Car Ckt Connections](https://user-images.githubusercontent.com/69571769/212732791-2a6b5cab-c8ed-422e-9123-7e09fb920b91.png)
 
 
 ### Demo
