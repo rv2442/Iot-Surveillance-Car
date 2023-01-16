@@ -56,6 +56,20 @@ https://randomnerdtutorials.com/program-upload-code-esp32-cam/
 <br>
 
 [Resources Needed for Initial Configuration(Booting) Stm32f103c8](https://drive.google.com/drive/folders/1rds3LwTy7vHc3aOse2h950rR8QPTpMZX)
+<br>
+
+Once code is uploaded Connect Stm32f103c8 to Ultrasonic sensor(HC-SR04), GPS sensor(Neo-6m) and Esp8266
+
+#### Pinout of Stm32f103c8  
+>RX1,TX1 -> Hardware Serial 1  
+>RX2,TX2 -> Hardware Serial 2  
+>RX3,TX3 -> Hardware Serial 3  
+
+![image](https://user-images.githubusercontent.com/69571769/212714675-f691a5f5-5311-4ffc-b745-5ac0949e578e.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/69571769/212715323-f289d77c-42d3-4894-8b30-4715355731ca.png)
+
+
 
 <br><br><br>
 
@@ -256,4 +270,7 @@ __Set Permission and Update policy for variables:__
 #### THE CAR MUST FUNCTION NOW PROVIDED YOU FOLLOWED ALL STEPS PROPERLY
 >The Connections of GPS, Ultrasonic, STM32, Esp8266 have been shown [here](https://github.com/rv2442/Iot-Surveillance-Car/blob/main/README.md#Upper-Level)  
 >How to Use [H-Bridge L298N](https://dronebotworkshop.com/dc-motors-l298n-h-bridge/)
+>Esp8266 Connections: 
+![Iot-Car Ckt Connections](https://user-images.githubusercontent.com/69571769/212732791-2a6b5cab-c8ed-422e-9123-7e09fb920b91.png)
+
 
