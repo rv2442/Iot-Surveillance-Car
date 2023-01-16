@@ -49,6 +49,18 @@ https://randomnerdtutorials.com/program-upload-code-esp32-cam/
 
 ## Step By Step Guide On Building This Project
 
+### Uploading Code to Stm32f103c8 (Bluepill Board)
+>Using this procedure one can upload Code to Stm32f103c8
+
+[![image](https://user-images.githubusercontent.com/69571769/212711597-bde4eb2c-d69d-4f1b-a400-678a4107e09c.png)](https://youtu.be/fD1Bzf2iP_E)
+<br>
+
+[Resources Needed for Initial Configuration(Booting) Stm32f103c8](https://drive.google.com/drive/folders/1rds3LwTy7vHc3aOse2h950rR8QPTpMZX)
+
+<br><br><br>
+
+
+
 ### Connecting ESP32 to Arduino IoT Cloud
 <li>https://docs.arduino.cc/arduino-cloud/getting-started/esp-32-cloud</li>
 
