@@ -271,7 +271,7 @@ __Set Permission and Update policy for variables:__
 ![Iot-Car Ckt Connections](https://user-images.githubusercontent.com/69571769/212732791-2a6b5cab-c8ed-422e-9123-7e09fb920b91.png)
 
 #### THE CAR MUST FUNCTION NOW PROVIDED YOU FOLLOWED ALL STEPS PROPERLY
->The Connections of GPS, Ultrasonic, STM32, Esp8266 have been shown [here](https://github.com/rv2442/Iot-Surveillance-Car/blob/main/README.md#Upper-Level)  
+>The Connection Overview of GPS, Ultrasonic, STM32, Esp8266 have been shown [here](https://github.com/rv2442/Iot-Surveillance-Car/blob/main/README.md#Upper-Level)  
 >How to Use [H-Bridge L298N](https://dronebotworkshop.com/dc-motors-l298n-h-bridge/)
 
 
